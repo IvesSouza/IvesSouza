@@ -2,10 +2,10 @@
 <h1> Bem-Vindo ao meu Github! 👋 </h1>
 <p> Olá Seja bem vindo ao meu Github , me chamo Ives e tenho 23 anos...
 Sou formado em Analise e Desenvolvimento de Sistemas e com MBA em Eng.da Computação.
-Estou me especializando em desenvolvimento Web Fullstack com Javascript e outras linguagens , como pode ver em meu GIT.<br>
-* Instagram : <a href="instagram.com/ivaocamiloto/">IvaoCamiloto</a> <br>
-* WhatsAPP : <a href="https://api.whatsapp.com/send?phone=5543998290414&text=Ol%C3%A1%20,%20Vim%20pelo%20seu%20Github">Clique Aqui!</a> <br>
-* Portfolio : <b> Em breve <b> 
+Estou me especializando em desenvolvimento Web Fullstack com Javascript e outras linguagens , como pode ver em meu GIT.</br></br>
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> : IvaoCamiloto </br>
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">: (43) 99829-0414 </br>
+ Portfolio : <b> Em breve <b> 
 </p> <br/>
 
 <div>
