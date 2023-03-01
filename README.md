@@ -1,10 +1,3 @@
-<style>
-	*{background-color:black;
-
-	}
-
-
-</style>
 <h1> Bem-Vindo ao meu Github! 👋 </h1>
 <p> Apresentação </p>
 <br/>
