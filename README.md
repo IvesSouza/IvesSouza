@@ -1,7 +1,7 @@
 
 ## Bem-Vindo ao meu Github! 👋
 
-<h4 align="center">	
+<h4 align="left">	
 	
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/ivessouza)](https://www.facebook.com/seixasqlc/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivaocamiloto/)
