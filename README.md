@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <h1> Bem-Vindo ao meu Github! 👋 </h1>
 <p> Apresentação </p>
 <br/>
